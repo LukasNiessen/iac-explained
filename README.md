@@ -15,7 +15,7 @@ That code could be a JSON file for example. That's it.
 
 ## Why IaC is a Must have
 
-First of all, this is a big deal. A very big deal. Before the cloud age of AWS, Azure, GCP and the like, companies had their own servers. When you needed more CPU, more servers, more RAM or things like that, you would need to request that from the operations department. Then hardware would be ordered and installed. The entire thing could take weeks or even months.
+First of all, the ability to just code your infrastructure is a big deal. A very big deal. Before the cloud age of AWS, Azure, GCP and the like, companies had their own servers. When you needed more CPU, more servers, more RAM or things like that, you would need to request that from the operations department. Then hardware would be ordered and installed. The entire thing could take weeks or even months.
 
 But now, we just click a button in the AWS console and have 10 new servers in Asia and 7 more in Europe. Of whatever size etc we want. This changes the game.
 

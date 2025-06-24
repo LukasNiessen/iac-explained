@@ -38,7 +38,7 @@ There aren't really any. Of course there is a learning curve and arguably some o
 
 Snowflake servers are servers that are difficult to reproduce. For example, it was set up and configured once by someone, but getting it the exact same way again... nobody really knows if they can do it. So everyone is scared to touch the server. What do you do then we you need more resources? Or make other infrastructure changes? You will have to touch it and that's a dangerous game. (Read more [here](https://martinfowler.com/bliki/SnowflakeServer.html))
 
-Not with IaC though.
+Not with IaC though. With IaC you know exactly how the server is set up, also if someone else did that 3 years ago. You also know how it was set up last week or last christmas. When you make a change, it's as transparent as it gets. And when something breaks, just roll it back. So no more snowflake servers.
 
 ## Terraform Examples
 
